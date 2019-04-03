@@ -1,2 +1,3 @@
 # twitter-fake
-Twitter feito utilizando flexbox.
+
+Baseado no Twitter, esta POC foi desenvolvida utilizando html, css e flexbox.
